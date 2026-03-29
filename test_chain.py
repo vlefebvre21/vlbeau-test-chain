@@ -1,0 +1,1 @@
+print("Chain test OK")
